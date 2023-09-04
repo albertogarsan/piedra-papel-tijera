@@ -21,7 +21,7 @@ Se utiliza con mucha frecuencia para decidir quién de dos personas hará algo, 
 
 ## Demostración en vivo
 
-Puedes ver una demostración en vivo del proyecto [aquí](https://tu-url-de-demo.com).
+Puedes ver una demostración en vivo del proyecto [aquí](https://albertogarsan.github.io/piedra-papel-tijera.github.io/).
 
 ## Características
 
